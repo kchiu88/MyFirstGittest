@@ -1,0 +1,6 @@
+s2file6.txt
+s2file6: this is a test line 1
+s2file6: this is a test line 2
+s2file6: this is a test line 3
+s2file6: this is a test line 4
+s2file6: this is a test line 5

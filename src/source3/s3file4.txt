@@ -1,0 +1,6 @@
+s3file4.txt
+s3file4: this is a test line 1
+s3file4: this is a test line 2
+s3file4: this is a test line 3
+s3file4: this is a test line 4
+s3file4: this is a test line 5
