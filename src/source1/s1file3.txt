@@ -5,5 +5,6 @@ s1file3:This is only a test line2
 s1file3:This is only a test line3
 s1file3:This is only a test line4
 Adding a new line for testing merging
-s1file3:This is only a test line5
 Adding a new line for testing merging
+Adding a new line for testing merging --new
+dding a new line for testing merging
