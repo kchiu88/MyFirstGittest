@@ -1,4 +1,3 @@
-s1file3.txt
 Adding a new line for testing merging
 s1file3:This is only a test line1
 s1file3:This is only a test line2

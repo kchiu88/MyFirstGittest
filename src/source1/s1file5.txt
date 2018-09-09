@@ -2,7 +2,7 @@ s1file5.txt
 Adding a new line for testing merging --new
 Adding a new line for testing merging
 Adding a new line for testing merging
-Adding a new line for testing merging --new
+Adding a new line for testing merging
 s1file5:This is only a test line1
 s1file5:This is only a test line2
 s1file5:This is only a test line3  --new
